@@ -4,12 +4,10 @@ import UserInputGroup from './Components/UserInputGroup';
 
 function App() {
   return (
-    <div className="center">
+    <div>
       <Header />
       <UserInputGroup />
       <Results />
-      <div>User inputs</div>
-      <div>Derived calculations</div>
     </div>
   );
 }

@@ -1,8 +1,10 @@
-export default function UserInput() {
+export default function UserInput({ labelOf }) {
   return (
     <div id="user-input">
-      <label>UserInput</label>
-      <input type="text" name="" id="" />
+      <label>
+        {labelOf}
+        <input type="number" name={labelOf} />
+      </label>
     </div>
   );
 }
