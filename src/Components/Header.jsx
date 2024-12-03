@@ -7,7 +7,7 @@ export default function Header() {
         src={logo}
         alt="A bag with a dollar symbol on it surrounded by gold coins"
       />
-      <h1>React Investment Calculator</h1>
+      <h1>Investment Calculator</h1>
     </header>
   );
 }
