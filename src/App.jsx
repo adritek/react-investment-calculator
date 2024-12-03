@@ -1,6 +1,6 @@
 import Header from './Components/Header';
-import UserInputGroup from './Components/UserInputGroup';
 import Results from './Components/Results';
+import UserInputGroup from './Components/UserInputGroup';
 
 function App() {
   return (
