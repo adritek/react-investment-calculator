@@ -1,4 +1,4 @@
-import Header from './Components/Header/Header';
+import Header from './Components/Header';
 import Results from './Components/Results';
 import UserInputGroup from './Components/UserInputGroup';
 
