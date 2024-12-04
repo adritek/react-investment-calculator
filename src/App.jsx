@@ -1,12 +1,12 @@
 import Header from './Components/Header';
 import Results from './Components/Results';
-import UserInputGroup from './Components/UserInputGroup';
+import UserInput from './Components/UserInput';
 
 function App() {
   return (
     <div>
       <Header />
-      <UserInputGroup />
+      <UserInput />
       <Results />
     </div>
   );
