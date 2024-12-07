@@ -1,4 +1,5 @@
-export default function Results() {
+export default function Results({ user }) {
+  console.log(user);
   return (
     <table id="result">
       <thead>
